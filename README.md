@@ -49,14 +49,14 @@ This is a simple backend service built in Go that provides an API endpoint which
    air
    ```
 
-   The server will start on port `3000`.
+   The server will start on port `7000`.
 
 ## Usage
 
 Once the server is running, you can access the endpoint by visiting:
 
 ```
-http://localhost:3000/hng_12/v0/1/
+http://localhost:7000/hng_12/v0/1/
 ```
 
 This will return the JSON response with the user details.
