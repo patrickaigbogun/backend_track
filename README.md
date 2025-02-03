@@ -10,7 +10,7 @@ This is a simple backend service built in Go that provides an API endpoint which
 
 ## API Endpoint
 
-- **GET `https://goservice-c85-8080.prg1.zerops.app/hng_12/v0/1/`**: Returns a JSON object containing:
+- **GET `https://goservice-c85-7000.prg1.zerops.app/hng_12/v0/1/`**: Returns a JSON object containing:
   - `email`: The user's email.
   - `current_datetime`: The current time in UTC.
   - `github_url`: A URL to the user's GitHub profile.
