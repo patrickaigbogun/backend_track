@@ -1,5 +1,3 @@
-
-
 # Backend Track
 
 This is a simple backend service built in Go that provides an API endpoint which returns user information in JSON format. The service includes a basic handler for returning the current time in UTC, along with other user details.
@@ -90,3 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Additional Notes:
 - **Dependencies:** The Go module (`go.mod`) file manages the dependencies for the project.
 - **Error Handling:** Basic error handling is in place to ensure that the JSON is properly marshaled before being sent as the HTTP response.
+- **Hiring:** Experienced with Golang and need a job? [https://hng.tech/hire/golang-developers] (go here) 
