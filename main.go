@@ -42,5 +42,5 @@ func main() {
 		w.Write(messageInJson)
 	})
 
-	log.Fatal(http.ListenAndServe(":8080", nil))
+	log.Fatal(http.ListenAndServe(":7000", nil))
 }
