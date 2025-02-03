@@ -88,4 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Additional Notes:
 - **Dependencies:** The Go module (`go.mod`) file manages the dependencies for the project.
 - **Error Handling:** Basic error handling is in place to ensure that the JSON is properly marshaled before being sent as the HTTP response.
-- **Hiring:** Experienced with Golang and need a job? [https://hng.tech/hire/golang-developers] (go here) 
+- **Hiring:** Experienced with Golang and need a job? [https://hng.tech/hire/golang-developers](go here) 
