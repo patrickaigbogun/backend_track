@@ -21,7 +21,7 @@ func main() {
 
 	date := formattedDateTime()
 
-	message := map[string]string{"email": "patrickaigbogunoti@gmail.com", "current_datetime": date, "github_url": ""}
+	message := map[string]string{"email": "patrickaigbogunoti@gmail.com", "current_datetime": date, "github_url": "https://github.com/patrickaigbogun/backend_track"}
 
 	messageInJson, err := json.Marshal(message)
 	if err != nil {
