@@ -42,17 +42,11 @@ This is a simple backend service built in Go that provides an API endpoint which
    ```bash
    cd backend_track
    ```
-
-3. Build the Go application:
-
-   ```bash
-   go build
-   ```
-
-4. Run the application:
+   
+3. Run the application:
 
    ```bash
-   ./backend_track
+   air
    ```
 
    The server will start on port `3000`.
